@@ -1,0 +1,3 @@
+Lưu Ý:
++ Vào SQL Sever tạo một database trống đặt tên là QLBH.
++ Mở query và chạy toàn bộ đoạn query code có sẵn trong file QLBH.sql để SQL Sever nạp database này vào.

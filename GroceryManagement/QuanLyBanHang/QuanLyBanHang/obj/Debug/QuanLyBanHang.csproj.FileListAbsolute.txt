@@ -1,0 +1,14 @@
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_Login.resources
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_Menu.resources
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_Account.resources
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_Sale.resources
+D:\study\đồ án\DB\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_Detail.resources
